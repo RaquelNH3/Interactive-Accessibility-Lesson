@@ -4,7 +4,7 @@ Reflection Questions
 
 What accessibility enhancements were the most challenging to implement, and why?
 
-Changing the texts to avoid overlap, blending the background, and changing the elements to be AAA were the most difficult. The overlap could be handled various ways using blocks or adjusting size. Adjusting to AA-AAA took guess work and playing with elements until you got them right by adjusting color and size until it hit the desired value range. Also, my devtools pulled up, but it was not easy to find the contrast on the page. There were so many tools, and the player made it difficult to read individual page elements. The assignment also seemed to assume the viewer knows intermediate to advanced CSS.
+1. Changing the texts to avoid overlap, blending the background, and changing the elements to be AAA were the most difficult. The overlap could be handled various ways using blocks or adjusting size. Adjusting to AA-AAA took guess work and playing with elements until you got them right by adjusting color and size until it hit the desired value range. Also, my devtools pulled up, but it was not easy to find the contrast on the page. There were so many tools, and the player made it difficult to read individual page elements. The assignment also seemed to assume the viewer knows intermediate to advanced CSS.
 
 2. How do ARIA attributes improve the experience for users relying on assistive technologies?
 
